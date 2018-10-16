@@ -1,2 +1,4 @@
 # animated-octo-carnival
-animated-octo-carnival repository
+octo-carnival repository
+added this line  
+deleted animated from first line (animated-octo-carnival repository)
